@@ -1,5 +1,5 @@
 # vietnamese-acronyms
-This is a list of Vietnamese acronyms/abbreviations used for text, chat, or SMS. 
+This is an alphabetized list of Vietnamese acronyms/abbreviations used for text, chat, or SMS. 
 
 Feel free to contribute!
 
@@ -12,3 +12,15 @@ Special thanks to HowToVietnamese.com's great post on [Decoding Vietnamese Text/
 ## "cty"
 - stands for *công ty*
 - meaning *company*
+
+## "ng"
+- stands for *người*
+- meaning *people*
+
+## "ngta"
+- stands for *người ta*
+- meaning *they*
+
+## "ultr"
+- stands for *ư là trơi*
+- meaning *oh my god*
