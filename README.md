@@ -33,6 +33,10 @@ Format:
 - stands for *cà phê*
 - meaning *cafe*
 
+### "cn"
+- stands for *chủ nhật*
+- meaning *Sunday*
+
 ### "cty"
 - stands for *công ty*
 - meaning *company*
@@ -40,6 +44,10 @@ Format:
 ### "e"
 - stands for *em*
 - meaning *I / you* -- someone young enough to be your younger sibling
+
+### "iu"
+- stands for *yêu*
+- meaning *love*
 
 ### "m"
 - stands for *mày*
